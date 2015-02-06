@@ -8,4 +8,4 @@ Using <a href="http://tapiov.net/rlutil/">rlutil</a> (as per <a href="http://tap
 - rlutil uses 1,1 as the top-left index - I prefer 0,0
 - rlutil uses column, row notation - of course, I prefer row, column
 
-So - I have using the CodeLite IDE environment and MinGW as the compiler. I have made no attempt to worry about portability - it is specifically a Windows console program.
+So - I have been using the CodeLite IDE environment and MinGW as the compiler. I have made no attempt to make the code portable - it is specifically a Windows console program.
